@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test formulara s podpisom</description>
+   <name>TestPodpis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c3c6549-4dae-4c86-8705-9ce39b6c54ed</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f07a26b3-b8bd-4dcc-99c7-4917c4bbbdd7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f07a26b3-b8bd-4dcc-99c7-4917c4bbbdd7</id>
+      <masked>false</masked>
+      <name>identifikator</name>
+   </variable>
+</TestCaseEntity>

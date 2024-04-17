@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Služba7.2.4.B Žiadosť o pôžičku pre študentov (bez zabezpečenia ručiteľom), autorizácia AD účtom, odoslanie nepodpísanej žiadosti - Slovák žijúci v zahraničí - odlišná  korešpondenčná adresa od trvalého pobytu - len Hlavné štúdium</description>
+   <name>PozickaB_399079</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73d0fbcf-a1ca-421f-9530-404c5e955959</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d7f86eb-f7e9-46e8-bc15-68ef93d18a33</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d7f86eb-f7e9-46e8-bc15-68ef93d18a33</id>
+      <masked>false</masked>
+      <name>identifikator</name>
+   </variable>
+</TestCaseEntity>

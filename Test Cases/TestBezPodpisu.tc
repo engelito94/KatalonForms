@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testovanie bez podpisu</description>
+   <name>TestBezPodpisu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59caf385-a413-423f-aedc-389665cad825</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab0ce110-50b9-4f33-a6ad-6b100ec13ebd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab0ce110-50b9-4f33-a6ad-6b100ec13ebd</id>
+      <masked>false</masked>
+      <name>identifikator</name>
+   </variable>
+</TestCaseEntity>

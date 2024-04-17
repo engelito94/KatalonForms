@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Služba 7.2.4.B Žiadosť o pôžičku pre študentov (bez zabezpečenia ručiteľom), autorizácia AD účtom a KEP - s prílohami - príslušnosť SR - zhodná korešpondenč. adresa s trvalým pobytom - štúdium Hlavné a Súbežné</description>
+   <name>PozickaB_399076</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>608ca100-61ed-4ceb-b7c6-f002befeb66e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1453215-c3cb-4dd2-b29b-7e0a832925fc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1453215-c3cb-4dd2-b29b-7e0a832925fc</id>
+      <masked>false</masked>
+      <name>identifikator</name>
+   </variable>
+</TestCaseEntity>

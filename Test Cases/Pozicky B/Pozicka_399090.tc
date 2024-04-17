@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Služba 7.3.4 Žiadosť o pôžičku pre pedagógov s ručiteľom, s autorizáciou AD účtom a podpisom KEP</description>
+   <name>Pozicka_399090</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dec2515-b332-470d-ac34-2218cffe89ca</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>158d4b34-ebb0-4c51-8f4d-6a474c8907db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>158d4b34-ebb0-4c51-8f4d-6a474c8907db</id>
+      <masked>false</masked>
+      <name>identifikator</name>
+   </variable>
+</TestCaseEntity>
