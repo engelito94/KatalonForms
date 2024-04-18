@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detail</name>
+   <tag></tag>
+   <elementGuidId>13308461-c11f-4a50-985b-e53ad712775d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.table-button-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='table-div']/div/table/tbody/tr/td[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8604622-2cae-4d4c-a12a-157a1c9d0663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-button-1  </value>
+      <webElementGuid>45089f1a-0962-4888-9808-8079e6493a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-row</name>
+      <type>Main</type>
+      <value>{&quot;identifikator&quot;:&quot;ESRVS-2024-2148&quot;,&quot;typPodania&quot;:&quot;Podávanie žiadosti o pôžičku pre študentov z Fondu na podporu vzdelávania (bez ručitela)&quot;,&quot;stavPodania&quot;:&quot;Prebieha overovanie podania - Kontrola podpísania a podania&quot;,&quot;datumCasPodania&quot;:&quot;2024-04-12T14:08:53.1085733&quot;,&quot;priezvisko&quot;:&quot;Chamraz&quot;,&quot;meno&quot;:&quot;Robert&quot;,&quot;rodneCislo&quot;:&quot;0101031238&quot;,&quot;prilohy&quot;:false,&quot;correlationId&quot;:&quot;6592beb2-f266-44d5-b2b2-99ea856cb7bc&quot;,&quot;podanieID&quot;:&quot;{1b02351f-06e3-49ce-8c79-18accbf6c184}&quot;,&quot;priezviskoAMeno&quot;:&quot;Chamraz Robert&quot;,&quot;datumCasPodaniaDT&quot;:&quot;12.04.2024 14:08&quot;}</value>
+      <webElementGuid>c6003c3b-8814-49cc-b87d-3b81c4baae9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                             Detail                         </value>
+      <webElementGuid>d816888d-193a-4b57-a9ba-acd04fe98961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-div&quot;)/div[1]/table[@class=&quot;govuk-table govuk-!-margin-top-7&quot;]/tbody[@class=&quot;govuk-table__body&quot;]/tr[@class=&quot;govuk-table__row&quot;]/td[@class=&quot;govuk-table__cell table-button-cell&quot;]/a[@class=&quot;table-button-1&quot;]</value>
+      <webElementGuid>6996b1f1-0eb4-4818-a1a3-110bb1a0ac34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table-div']/div/table/tbody/tr/td[6]/a</value>
+      <webElementGuid>2f9c2efa-6744-4170-a34b-275c2efcf592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Detail')]</value>
+      <webElementGuid>5b99bd85-720d-4894-9d58-7b9704022cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prebieha overovanie podania - Kontrola podpísania a podania'])[1]/following::a[1]</value>
+      <webElementGuid>dba37e74-4754-4284-8965-caa68308ce7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chamraz Robert'])[1]/following::a[1]</value>
+      <webElementGuid>ff1d8eda-9532-4d64-ba4e-7c7c6b8a9ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správy k podaniu'])[2]/preceding::a[1]</value>
+      <webElementGuid>6c97fbf6-2f91-4fc4-b160-3ba9dfa2310f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stránka 1'])[1]/preceding::a[2]</value>
+      <webElementGuid>bbfce582-2b09-4370-886b-421fbefc2d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>cdb6b624-fd33-4aae-a431-3a4b03446640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '                             Detail                         ' or . = '                             Detail                         ')]</value>
+      <webElementGuid>2be083d4-72d5-4104-9c4d-355bd8004daa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

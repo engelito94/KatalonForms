@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Potvrd_vyber_filtra_podpis</name>
+   <tag></tag>
+   <locator>Žiadny filter</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

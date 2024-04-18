@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>def56f7a-c0ff-46ef-af07-47c9e2e9033c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Pedagogický a odborný zamestnanec&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Pedagogický a odborný zamestnanec']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1d3e8f54-08c8-42a5-8b5f-c8574bdd305e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/pedagodbzam-icon.svg</value>
+      <webElementGuid>14281393-82aa-437c-ba0d-52d3b8a0bf73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Pedagogický a odborný zamestnanec</value>
+      <webElementGuid>ada789d3-76be-463e-971f-478c3c458f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>44</value>
+      <webElementGuid>6fc66d11-eede-4a27-aab7-04516d63a0dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper-full&quot;]/div[@class=&quot;govuk-width-container&quot;]/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;home-page&quot;]/div[@class=&quot;verejna-zona-content zona-content public&quot;]/main[@class=&quot;crossroad-icons vyber&quot;]/div[@class=&quot;crossroad-icon-wrapper&quot;]/a[@class=&quot;crossroad-icon&quot;]/div[@class=&quot;icon-blue&quot;]/img[1]</value>
+      <webElementGuid>89dd168e-7422-4166-8c90-5783fdc2da85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Pedagogický a odborný zamestnanec']</value>
+      <webElementGuid>7591f525-1504-45bd-8280-32564ba2ba67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div/img</value>
+      <webElementGuid>d8e950d2-965c-46b4-89a6-2b21eda6f8bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/pedagodbzam-icon.svg' and @alt = 'Pedagogický a odborný zamestnanec']</value>
+      <webElementGuid>1da71d77-a935-405f-b0d3-aee83209b2a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

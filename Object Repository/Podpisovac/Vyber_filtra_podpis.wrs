@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Vyber_filtra_podpis</name>
+   <tag></tag>
+   <locator>WindowsForms10.COMBOBOX.app.0.141b42a_r7_ad1</locator>
+   <locatorStrategy>CLASS_NAME</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>RuntimeId</name>
+      <type>Main</type>
+      <value>[2A.AA1550]</value>
+      <webElementGuid>9613e420-1a60-4a56-a47b-739292a411df</webElementGuid>
+   </properties>
+</WindowsElementEntity>

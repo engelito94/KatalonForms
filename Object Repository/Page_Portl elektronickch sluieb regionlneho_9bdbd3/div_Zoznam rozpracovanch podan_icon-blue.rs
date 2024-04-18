@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zoznam rozpracovanch podan_icon-blue</name>
+   <tag></tag>
+   <elementGuidId>aae36804-1906-48bb-9c77-8c48c767d4e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoznam rozpracovaných podaní'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f28bc27-c0a3-4d6e-954c-41bfcfb573e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-blue</value>
+      <webElementGuid>7f977c1a-d2aa-4851-962b-1da4001733a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper-full&quot;]/div[@class=&quot;govuk-width-container&quot;]/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;home-page&quot;]/div[@class=&quot;privatna-zona-content zona-content private&quot;]/main[@class=&quot;crossroad-icons vyber&quot;]/div[@class=&quot;crossroad-icon-wrapper&quot;]/a[@class=&quot;crossroad-icon&quot;]/div[@class=&quot;icon-blue&quot;]</value>
+      <webElementGuid>63db4734-a9a9-41a1-85ac-1ecd56165474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>72</value>
+      <webElementGuid>a1199532-fe28-4bc7-ace8-6c3e0a556936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoznam rozpracovaných podaní'])[1]/following::div[3]</value>
+      <webElementGuid>28056853-7e81-4970-9288-01c5beaaec9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronické služby - Privátna zóna'])[1]/following::div[7]</value>
+      <webElementGuid>2e892728-a9b8-412b-b7fc-addb2186285a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoznam odoslaných podaní'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b5b07fd-a0eb-4533-9bcb-0d6c89ae5151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoznam obsahuje správy vygenerované systémom k Vašim odoslaným podaniam.'])[1]/preceding::div[2]</value>
+      <webElementGuid>6f391fc7-f872-4627-9c74-a574e6786ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/main/div[2]/a/div</value>
+      <webElementGuid>a628e067-f5fc-40eb-a7b6-37a3999aaa41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronické služby - Verejná zóna'])[1]/following::div[3]</value>
+      <webElementGuid>2861b483-4eb9-4843-a5ea-2af51516ee67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podávanie žiadosti o pôžičku pre študentov z Fondu na podporu vzdelávania'])[1]/following::div[4]</value>
+      <webElementGuid>d4384c69-8160-4ea4-b6dd-1e97f66b5f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Študent'])[1]/preceding::div[1]</value>
+      <webElementGuid>50d4ed7b-7b94-4662-b954-128a1ff1abeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absolvent'])[1]/preceding::div[3]</value>
+      <webElementGuid>8fc70e23-0ed9-43e4-aa69-ac5ea05a99bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>b3c46d5e-a0d8-49a2-9e6b-c57048009330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

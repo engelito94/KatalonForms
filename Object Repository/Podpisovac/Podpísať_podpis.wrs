@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Podpísať_podpis</name>
+   <tag></tag>
+   <locator>Podpísať</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>AutomationId</name>
+      <type>Main</type>
+      <value>btnSign</value>
+      <webElementGuid>7476efd9-0cc2-4780-ba8e-edca58bf08df</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>IsEnabled</name>
+      <type>Main</type>
+      <value>True</value>
+      <webElementGuid>ff266255-70cb-4e66-9104-44f23102b4c5</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ClassName</name>
+      <type>Main</type>
+      <value>WindowsForms10.BUTTON.app.0.141b42a_r7_ad1</value>
+      <webElementGuid>db151ddc-ab73-45c0-8384-a04fdbd33835</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>RuntimeId</name>
+      <type>Main</type>
+      <value>[2A.B0E2A]</value>
+      <webElementGuid>bfbf8d41-2ae5-41bd-9441-c04713a56c0a</webElementGuid>
+   </properties>
+</WindowsElementEntity>
