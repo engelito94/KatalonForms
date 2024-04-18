@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_15</name>
+   <tag></tag>
+   <elementGuidId>5bffd90a-e0bb-4f99-95a7-2d2ed3f5a56b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[3]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be7f2b45-d1da-48d5-8a07-e86f0eaa1849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eform_ro row-value</value>
+      <webElementGuid>0a4550eb-002d-4e78-8b7c-315919903bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>2204</value>
+      <webElementGuid>fd3c8494-24e6-4f97-9678-f42d25cd4cd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>82949e49-e913-4c05-8e73-2273f7c8bfc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UI_V_ZP_in_Zhrnutie_UI_P_VR_in_Nahlad&quot;)/div[@id=&quot;main-content&quot;]/div[@class=&quot;eform_ro govuk-width-container&quot;]/div[@class=&quot;eform_ro row&quot;]/div[@class=&quot;eform_ro row-value&quot;]</value>
+      <webElementGuid>c703ee48-b791-493d-8745-783d006c4319</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[3]/div[2]/div[2]</value>
+      <webElementGuid>c19a50d4-3bc3-47c1-8d32-5185ac009cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Požadovaná lehota splatnosti pôžičky (v rokoch)'])[2]/following::div[1]</value>
+      <webElementGuid>073679ac-ab68-478f-93f3-21c29133c420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Požadovaná výška pôžičky (zaokrúhlene na stovky eur)'])[2]/following::div[4]</value>
+      <webElementGuid>ad2d0121-750f-4909-8feb-434d16b44db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov zamestnávateľa'])[7]/preceding::div[1]</value>
+      <webElementGuid>780ee435-a224-4705-9ecd-7d9ad60e38ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stredná odborná škola'])[2]/preceding::div[2]</value>
+      <webElementGuid>68a89aea-bacd-41ed-b862-f826eb1f8e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>f0ad3b3c-3cc5-4b13-8285-e4e4338b581a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '15' or . = '15')]</value>
+      <webElementGuid>027308f0-a00c-4af2-a349-606b9ab142c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

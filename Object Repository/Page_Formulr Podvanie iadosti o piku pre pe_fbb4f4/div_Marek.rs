@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Marek</name>
+   <tag></tag>
+   <elementGuidId>04bc2981-9c8a-4162-94b3-ba87dc819f11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a202d08-ab3b-408e-b483-225bba931d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eform_ro row-value</value>
+      <webElementGuid>3ab40c42-add3-47b3-aac6-bf2fe38a8397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>2145</value>
+      <webElementGuid>319082d1-30ac-45e0-83fe-72d9b84a6036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marek</value>
+      <webElementGuid>5837dd6f-c12e-48ad-8bdc-c84968b3084b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UI_V_ZP_in_Zhrnutie_UI_P_VR_in_Nahlad&quot;)/div[@id=&quot;main-content&quot;]/div[@class=&quot;eform_ro govuk-width-container&quot;]/div[@class=&quot;eform_ro row&quot;]/div[@class=&quot;eform_ro row-value&quot;]</value>
+      <webElementGuid>54e3f749-2303-4b16-b53e-8fa5192dd79d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div[2]/div[2]</value>
+      <webElementGuid>983ef192-b8e9-468f-a905-9371a2fe6fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno'])[1]/following::div[1]</value>
+      <webElementGuid>051ff8eb-0c46-4ca0-bd8d-38cb401c35db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ing.'])[1]/following::div[3]</value>
+      <webElementGuid>5c81658c-99ee-4f88-a214-ad98e0c4ed90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priezvisko'])[1]/preceding::div[1]</value>
+      <webElementGuid>4f402230-2c08-4767-bc4a-9fe7ab09f23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tirpák'])[2]/preceding::div[2]</value>
+      <webElementGuid>f74703c0-3720-4633-af31-77da1296ebf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/fieldset/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>ee948e42-6e4e-48d9-9991-7e71f14e57d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Marek' or . = 'Marek')]</value>
+      <webElementGuid>931cb151-7c70-4c8b-b4c0-0dd3d03a6cb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

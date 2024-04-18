@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tirpk</name>
+   <tag></tag>
+   <elementGuidId>3e7218c2-080e-4321-92a2-f9cbf897ddf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55c4ba32-39f2-4ed3-aa96-1126e1699126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eform_ro row-value</value>
+      <webElementGuid>f7695783-465d-4f8c-a72b-405c64c03d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>2144</value>
+      <webElementGuid>92b0e8b7-c08f-4103-89c5-bb6f7e384cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tirpák</value>
+      <webElementGuid>b57652c8-79d6-444e-95a0-b821836bbaab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UI_V_ZP_in_Zhrnutie_UI_P_VR_in_Nahlad&quot;)/div[@id=&quot;main-content&quot;]/div[@class=&quot;eform_ro govuk-width-container&quot;]/div[@class=&quot;eform_ro row&quot;]/div[@class=&quot;eform_ro row-value&quot;]</value>
+      <webElementGuid>4272ce30-3497-4ae3-8270-c600ca554cf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div[3]/div[2]</value>
+      <webElementGuid>173a3501-d5d2-40a8-8924-e5fbe92e7f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priezvisko'])[1]/following::div[1]</value>
+      <webElementGuid>046cb60d-4e90-43f9-9da8-288616792eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marek'])[2]/following::div[3]</value>
+      <webElementGuid>6d688c20-239e-4e30-90ba-13f3e0bbe896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné číslo'])[1]/preceding::div[1]</value>
+      <webElementGuid>aed761e3-42e4-4091-a290-2a618b4c0d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[1]/preceding::div[4]</value>
+      <webElementGuid>20b26f73-144d-431f-8290-79cf10827397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>b838f9a4-c9c6-4f15-a4d5-4e859ce4c893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tirpák' or . = 'Tirpák')]</value>
+      <webElementGuid>d5a0dcc4-92f9-4076-ac92-07455e0b9fa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

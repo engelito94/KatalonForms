@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_15.04.2024</name>
+   <tag></tag>
+   <elementGuidId>76eab2bf-4d63-437c-aaf7-134a8ce23703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d330ecac-d217-40af-874d-0f231d80b561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eform_ro row-value</value>
+      <webElementGuid>2d709182-050f-4d89-97c3-e6ae1444ab46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>2168</value>
+      <webElementGuid>dcb1f4d7-e429-4e28-a2d4-b8d741c6f8d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15.04.2024</value>
+      <webElementGuid>3fc1bb44-edd7-434c-aee0-9bc54fe6725f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UI_V_ZP_in_Zhrnutie_UI_P_VR_in_Nahlad&quot;)/div[@id=&quot;main-content&quot;]/div[@class=&quot;eform_ro govuk-width-container&quot;]/div[@class=&quot;eform_ro row&quot;]/div[@class=&quot;eform_ro row-value&quot;]</value>
+      <webElementGuid>be25d9ba-5e19-44ca-a678-9570be3871e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div[2]</value>
+      <webElementGuid>b5bb3c83-452d-4a73-9c50-ced9f51d19c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum vytvorenia'])[1]/following::div[1]</value>
+      <webElementGuid>8e984dcf-49e5-4983-a056-d9ffcfc8ecbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESRVS-2024-2188'])[2]/following::div[3]</value>
+      <webElementGuid>139b155d-4538-4296-93d0-4b4f4042eee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miesto odoslania žiadosti'])[2]/preceding::div[1]</value>
+      <webElementGuid>d2ab9854-3cfb-426a-9585-c1859c23d309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bratislava'])[1]/preceding::div[2]</value>
+      <webElementGuid>8af640e8-6ac9-4715-95e3-954c85d96c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/fieldset/div/div/div[2]/div[2]</value>
+      <webElementGuid>e8119e21-c218-4285-9806-bb5e2717e4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '15.04.2024' or . = '15.04.2024')]</value>
+      <webElementGuid>a2e4ab2c-a8c6-463e-a54c-619cb9084ca7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

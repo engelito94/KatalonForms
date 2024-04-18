@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Slovensk republika</name>
+   <tag></tag>
+   <elementGuidId>4e536197-de3c-4f5a-a4c7-76f0901b78d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.govuk-label.govuk-radios__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UI_V_ZP_in_IdentifikacneUdaje_StatnaPrislusnost']/fieldset/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e6f3e4e2-d9aa-4416-ba23-2bef42f211b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label govuk-radios__label</value>
+      <webElementGuid>cecc46c2-c8e4-421d-8f83-07004cb0b6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Vyberte jednu z možností. </value>
+      <webElementGuid>749eda95-761c-4826-a82f-bf4bfb3310df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>UI_V_ZP_in_IdentifikacneUdaje_StatnaPrislusnost-1</value>
+      <webElementGuid>45518f39-f304-40ac-aab4-f4c634af0513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>74</value>
+      <webElementGuid>dd411d5d-b7d9-4b6c-b6dc-0f020bec7750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slovenská republika</value>
+      <webElementGuid>50bd5c4c-9c8e-486f-936f-b988aa3b7a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UI_V_ZP_in_IdentifikacneUdaje_StatnaPrislusnost&quot;)/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
+      <webElementGuid>06b7e033-9049-4521-af01-9e5ed46835a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UI_V_ZP_in_IdentifikacneUdaje_StatnaPrislusnost']/fieldset/div/div/label</value>
+      <webElementGuid>204e0233-e0f9-435d-a3b3-4a5a002ef2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Štátna príslušnosť'])[1]/following::label[1]</value>
+      <webElementGuid>fa138a92-a3b2-4151-b8f3-c952c4c63636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iná'])[1]/preceding::label[1]</value>
+      <webElementGuid>30e22e35-b704-4b2f-ab82-a0bf1e4663fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zadajte Vašu štátnu príslušnosť (nepovinný údaj)'])[1]/preceding::label[2]</value>
+      <webElementGuid>d6e9833c-5407-4ee7-b230-bfbfec1c52da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Slovenská republika']/parent::*</value>
+      <webElementGuid>09ef4de5-6c04-49d0-bf04-5caeb3265b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label</value>
+      <webElementGuid>5e6b7447-aca4-4dc0-8aa3-ecb0b03d8d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Vyberte jednu z možností. ' and (text() = 'Slovenská republika' or . = 'Slovenská republika')]</value>
+      <webElementGuid>8f90aee0-c87d-41b1-b837-d15600f05c32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
