@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Podvanie iadosti o piku pre tudentov z_b27195</name>
+   <tag></tag>
+   <elementGuidId>44b69ee3-c834-4232-8b28-a381419cc629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#typ-podania-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='typ-podania-info']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1ee1238-f44d-428f-9def-3656cbc807aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>typ-podania-info</value>
+      <webElementGuid>cf6b0624-8bcd-4b89-aafe-2ba783c1d577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Podávanie žiadosti o pôžičku pre študentov z Fondu na podporu vzdelávania (bez ručitela)</value>
+      <webElementGuid>eab9b72b-29c6-4bd2-9948-757c234fb4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typ-podania-info&quot;)</value>
+      <webElementGuid>5af042e7-4cfa-4f4f-8830-e47648f4b6d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='typ-podania-info']</value>
+      <webElementGuid>7eed74f4-35d7-40d1-9b92-6cbd813f10b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-sekcia']/div[3]/span</value>
+      <webElementGuid>5831ba65-4cf7-4298-9b1e-97ef8b5b9f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ podania'])[1]/following::span[1]</value>
+      <webElementGuid>094b9667-bb29-481d-bf16-a5f76dbdc24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Robert Chamraz'])[1]/following::span[1]</value>
+      <webElementGuid>dd65a2ca-2783-4a6b-bd6b-26d9309637d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav podania'])[1]/preceding::span[1]</value>
+      <webElementGuid>91556ca1-6d4f-45d6-ad29-58a07ed73eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prebieha overovanie podania'])[1]/preceding::span[1]</value>
+      <webElementGuid>065681df-8172-4aaa-903a-53663fa6ce1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Podávanie žiadosti o pôžičku pre študentov z Fondu na podporu vzdelávania (bez ručitela)']/parent::*</value>
+      <webElementGuid>29777f7d-bc25-4626-8855-1b5ccd39948c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>b0b606ce-56ee-4491-8c00-692bba085d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'typ-podania-info' and (text() = 'Podávanie žiadosti o pôžičku pre študentov z Fondu na podporu vzdelávania (bez ručitela)' or . = 'Podávanie žiadosti o pôžičku pre študentov z Fondu na podporu vzdelávania (bez ručitela)')]</value>
+      <webElementGuid>131fb22a-033d-4f68-8710-3931a0acd740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

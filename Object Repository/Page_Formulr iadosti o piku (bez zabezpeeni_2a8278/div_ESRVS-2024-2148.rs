@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ESRVS-2024-2148</name>
+   <tag></tag>
+   <elementGuidId>de6b5976-142d-4446-92b0-44e5f02ae4c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.eform_ro.row-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdedd494-e7cc-45b8-9d4d-abd8fb7aabc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eform_ro row-value</value>
+      <webElementGuid>383ac13b-883c-4dce-aa7e-c3406e415c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ESRVS-2024-2148</value>
+      <webElementGuid>3f72e92e-dd8c-44de-a8fd-b5fd2c4f0a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UI_V_ZP_in_ZhrnutieZiadosti_UI_V_ZP_in_Nahlad&quot;)/div[@id=&quot;main-content&quot;]/div[@class=&quot;eform_ro govuk-width-container&quot;]/div[@class=&quot;eform_ro row&quot;]/div[@class=&quot;eform_ro row-value&quot;]</value>
+      <webElementGuid>2efc6ac3-239e-43f6-8ce0-79ffb5d222f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div/div[2]</value>
+      <webElementGuid>653ee6a8-a93f-4df2-9492-766c7e5757a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identifikátor žiadosti'])[1]/following::div[1]</value>
+      <webElementGuid>6213fc64-33e5-47f2-9425-52fd22740f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zhrnutie žiadosti'])[2]/following::div[5]</value>
+      <webElementGuid>77b7cea2-8178-4306-a9c4-d94f5bd84397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum vytvorenia'])[1]/preceding::div[1]</value>
+      <webElementGuid>db238b89-d31c-46b7-ab41-d375dddf1be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miesto odoslania žiadosti'])[2]/preceding::div[4]</value>
+      <webElementGuid>ff9816f1-8bd9-4081-9c43-a7b02708d243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/fieldset/fieldset/div/div/div/div[2]</value>
+      <webElementGuid>ed62fc18-c13b-424d-bdce-67a1e0890e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ESRVS-2024-2148' or . = 'ESRVS-2024-2148')]</value>
+      <webElementGuid>e97d9e8b-db52-4bbd-9b2b-fd183ab3a703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

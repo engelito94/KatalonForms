@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Prihlsi sa</name>
+   <tag></tag>
+   <elementGuidId>b4930d5f-0d34-4e1d-a83d-c9afd8e18390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.govuk-button.sign-in-button.green</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>03d281c7-a57b-4739-8873-d69c211c9f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button sign-in-button green</value>
+      <webElementGuid>90b3f97c-f24e-4c49-8169-7b0a214540b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Login?returnurl=%2Ferror</value>
+      <webElementGuid>f02da7ae-ba7d-467d-8470-399cf581d799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zn_id</name>
+      <type>Main</type>
+      <value>31</value>
+      <webElementGuid>fc63d29c-6b14-4a4e-adea-4b0158014625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prihlásiť sa</value>
+      <webElementGuid>4f0a227a-e3ec-4264-9bd1-2a65eba8ca02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;main-menu&quot;]/div[@class=&quot;menu-wrapper&quot;]/a[@class=&quot;govuk-button sign-in-button green&quot;]</value>
+      <webElementGuid>444fc6fc-c6d5-4c9e-a4bd-06099dc1a1da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div/a</value>
+      <webElementGuid>da4bb515-389c-4772-97f2-1dacbf370822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Prihlásiť sa')]</value>
+      <webElementGuid>434ed67f-04e3-4a9f-aa22-a64c93c60029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronické služby portálu regionálneho a vysokého školstva'])[1]/following::a[1]</value>
+      <webElementGuid>95875611-2ee3-483a-b7f8-aacc5a3ddce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testovacie prostredie'])[1]/following::a[3]</value>
+      <webElementGuid>160d558d-3d55-407f-857f-8c895088321a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrovať sa'])[1]/preceding::a[1]</value>
+      <webElementGuid>bcbcf6bd-59f8-4300-9f41-21580a5cc5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chybové hlásenie'])[1]/preceding::a[2]</value>
+      <webElementGuid>22778c30-630b-4acb-bccd-5299b0f8c07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prihlásiť sa']/parent::*</value>
+      <webElementGuid>6dae18c3-377b-430f-aed0-cfe680260dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Login?returnurl=%2Ferror')]</value>
+      <webElementGuid>8c9f2402-eff5-4394-a8b4-ae26edb216d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>42144a5f-c2dc-44d3-8ea9-001e4374f086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Login?returnurl=%2Ferror' and (text() = 'Prihlásiť sa' or . = 'Prihlásiť sa')]</value>
+      <webElementGuid>c30a1cb5-912b-4c6c-a070-de54a71143e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
